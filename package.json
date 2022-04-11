@@ -1,7 +1,7 @@
 {
-  "name": "tokipona-lipunimi",
-  "version": "1.0.0",
-  "description": "A toki pona language reference to and from English.",
+  "name": "lipunimi",
+  "version": "0.0.1",
+  "description": "reference to/from toki pona",
   "main": "entry.js",
   "dependencies": {
     "babel-core": "^6.4.0",
@@ -19,15 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mlsteele/tokipona-lipunimi.git"
+    "url": "git+https://github.com/unnamedau/lipunimi.git"
   },
-  "keywords": [
-    "tokipona"
-  ],
-  "author": "Miles Steele",
+  "author": "Dau",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mlsteele/tokipona-lipunimi/issues"
+    "url": "https://github.com/unnamedau/lipunimi/issues"
   },
-  "homepage": "https://github.com/mlsteele/tokipona-lipunimi#readme"
+  "homepage": "https://github.com/unnamedau/lipunimi#readme"
 }
